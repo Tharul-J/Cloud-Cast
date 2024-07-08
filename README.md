@@ -4,7 +4,8 @@
 
 - Cloud Cast is a simple weather forecast application that displays the current weather for a specified city. It retrieves weather data from an online API and presents it in a user-friendly GUI.
 ----------------------
-![image](https://github.com/Tharul-J/Cloud-Cast/assets/171511675/5f071cd2-5df0-4763-a2d2-9c0d6cee23d7)
+![image](https://github.com/Tharul-J/Cloud-Cast/assets/171511675/5b6077cd-9220-4814-b4fe-b6d90355bb52)
+
 ----------------------
 
 🔗 Features:
