@@ -10,6 +10,6 @@
 
 🔗 Features:
 
-   - Input for city name.
+   - Input/search for city name.
    - Fetch weather data from an API.
    - Display weather data in a GUI.
